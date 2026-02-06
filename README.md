@@ -6,7 +6,9 @@ Parameters - Used for parameters enumeration to an URL. Extracted from Burpsuite
 
 Common.txt - Small list for fuzzing purpose. Extracted from Seclists
 
-Directory - Famous Directory.2.3.medium originally from Dirbuster, commontly used for fuzzing directoryes. A little bit old (2007). Extracted from Seclists.
+Directory - Famous directory-list-2.3-medium.txt originally from Dirbuster, commontly used for fuzzing directoryes. A little bit old (2007). Extracted from Seclists.
+
+Directory-big - directory-list-2.3-big.txt, extracted from Seclists.
 
 Subdomains - Common used list for fuzzing subdomains. Extracted from seclists
 
