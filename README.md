@@ -8,3 +8,6 @@ Common.txt - Small list for fuzzing purpose. Extracted from Seclists
 
 Directory - Famous Directory.2.3.medium originally from Dirbuster, commontly used for fuzzing directoryes. A little bit old (2007). Extracted from Seclists.
 
+Subdomains - Common used list for fuzzing subdomains. Extracted from seclists
+
+Subdomains2 - Bigger and more updated list for fuzzing subdomains, extracted from fuzzdicts.
