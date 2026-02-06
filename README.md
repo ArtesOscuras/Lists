@@ -22,6 +22,10 @@
 
 - Usernames - 8 Milion common usernames used in multiple softwares like active directory or pentesting web. Intended for fuzzing usernames. Extracted from Seclists, and uploaded as [release](https://github.com/ArtesOscuras/Lists/releases/download/list/usernames.tar.gz) due to it's size.
 
-- Lfi - Common linux/windows file paths for path traversal testing, used for web pentesting. I don't remember from where I took it but probably was Seclists or PayloadAllTheThings repos.
+<br>
 
-- Sqli.txt - Common payloads used for test SQL injections. I don't remember from where I took it but probably was Seclists or PayloadAllTheThings repos.
+Payload-wrdlst are wordlists used for vulnerability enumeration. Extracted from Seclists and PayloadAllTheThings repos.
+
+- Lfi.txt - Common linux/windows file paths for path traversal testing, used for web pentesting.
+
+- Sqli.txt - Common payloads used for test SQL injections.
